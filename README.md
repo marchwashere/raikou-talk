@@ -10,7 +10,7 @@ Static enlarged emotes, compact turn sequences, Back/Restart, response filtering
 
 The checked-in `public/` directory is ready to serve. No build, Node.js, .NET, or application process is needed on the server. Opening the HTML directly with `file://` does not work; serve it over HTTP(S).
 
-This example assumes Caddy is already installed as a system service. For this private repository, first add a read-only [GitHub deploy key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys) for your server, or authenticate Git using an account with repository access.
+This example assumes Caddy is already installed as a system service. This repository is public; cloning and pulling over HTTPS require no GitHub login or deploy key.
 
 Run as the server user that will pull updates:
 
@@ -20,8 +20,6 @@ sudo install -d -m 755 -o "$(id -un)" -g "$(id -gn)" /srv/raikou-talk
 git clone https://github.com/marchwashere/raikou-talk.git /srv/raikou-talk
 chmod -R a+rX /srv/raikou-talk/public
 ```
-
-The HTTPS clone above requires HTTPS credentials for a private repository. If you configured an SSH deploy key, use `git@github.com:marchwashere/raikou-talk.git` instead (or your configured SSH hostname alias).
 
 Add this domain block to `/etc/caddy/Caddyfile`, replacing `your-domain.com`:
 
