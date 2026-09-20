@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png binary
+# Preserve exact bytes used by the strategy hash checks.
+data/raikou_*.json -text
+engine/data/* -text
+public/data/*.json -text

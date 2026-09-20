@@ -1,0 +1,3103 @@
+{
+  "scope": "Burned Tower/shared actions",
+  "units": "overworld game updates",
+  "nominalHz": 30,
+  "sourceDerived": true,
+  "emulatorValidated": false,
+  "movement": {
+    "2": {
+      "durations": [
+        0,
+        1
+      ],
+      "activeTicks": 2,
+      "executionTicks": 6
+    },
+    "3": {
+      "durations": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "activeTicks": 9,
+      "executionTicks": 13
+    },
+    "4": {
+      "durations": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "activeTicks": 9,
+      "executionTicks": 13
+    },
+    "6": {
+      "durations": [
+        0,
+        2,
+        5
+      ],
+      "activeTicks": 8,
+      "executionTicks": 12
+    },
+    "8": {
+      "durations": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ],
+      "activeTicks": 20,
+      "executionTicks": 24
+    },
+    "9": {
+      "durations": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ],
+      "activeTicks": 20,
+      "executionTicks": 24
+    },
+    "11": {
+      "durations": [
+        3,
+        20,
+        2,
+        5,
+        2,
+        7
+      ],
+      "activeTicks": 39,
+      "executionTicks": 43
+    },
+    "12": {
+      "durations": [
+        0,
+        0,
+        20,
+        3,
+        20,
+        15
+      ],
+      "activeTicks": 60,
+      "executionTicks": 64
+    },
+    "13": {
+      "durations": [
+        0,
+        0,
+        6,
+        3,
+        6,
+        10
+      ],
+      "activeTicks": 27,
+      "executionTicks": 31
+    },
+    "25": {
+      "durations": [
+        50
+      ],
+      "activeTicks": 50,
+      "executionTicks": 54
+    },
+    "26": {
+      "durations": [
+        50
+      ],
+      "activeTicks": 50,
+      "executionTicks": 54
+    },
+    "32": {
+      "durations": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "activeTicks": 19,
+      "executionTicks": 23
+    },
+    "33": {
+      "durations": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "activeTicks": 19,
+      "executionTicks": 23
+    },
+    "34": {
+      "durations": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "activeTicks": 19,
+      "executionTicks": 23
+    },
+    "35": {
+      "durations": [
+        5,
+        2,
+        20,
+        5,
+        2,
+        5,
+        2,
+        5,
+        3,
+        4
+      ],
+      "activeTicks": 53,
+      "executionTicks": 57
+    },
+    "36": {
+      "durations": [
+        5,
+        2,
+        20,
+        5,
+        2,
+        5,
+        2,
+        5,
+        3,
+        4
+      ],
+      "activeTicks": 53,
+      "executionTicks": 57
+    },
+    "37": {
+      "durations": [
+        5,
+        2,
+        20,
+        5,
+        2,
+        5,
+        2,
+        5,
+        3,
+        4
+      ],
+      "activeTicks": 53,
+      "executionTicks": 57
+    },
+    "38": {
+      "durations": [
+        5,
+        2,
+        20,
+        5,
+        2,
+        5,
+        2,
+        5,
+        3,
+        4
+      ],
+      "activeTicks": 53,
+      "executionTicks": 57
+    },
+    "43": {
+      "durations": [
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10
+      ],
+      "activeTicks": 62,
+      "executionTicks": 66
+    },
+    "44": {
+      "durations": [
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        10
+      ],
+      "activeTicks": 36,
+      "executionTicks": 40
+    },
+    "45": {
+      "durations": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        10
+      ],
+      "activeTicks": 23,
+      "executionTicks": 27
+    },
+    "51": {
+      "durations": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "activeTicks": 40,
+      "executionTicks": 44
+    },
+    "57": {
+      "durations": [
+        5,
+        2,
+        20,
+        3,
+        2
+      ],
+      "activeTicks": 32,
+      "executionTicks": 36
+    },
+    "58": {
+      "durations": [
+        5,
+        2,
+        20,
+        3,
+        2
+      ],
+      "activeTicks": 32,
+      "executionTicks": 36
+    },
+    "59": {
+      "durations": [
+        5,
+        2,
+        20,
+        3,
+        2
+      ],
+      "activeTicks": 32,
+      "executionTicks": 36
+    },
+    "60": {
+      "durations": [
+        5,
+        2,
+        20,
+        3,
+        2
+      ],
+      "activeTicks": 32,
+      "executionTicks": 36
+    }
+  },
+  "emotes": {
+    "1": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "2": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "3": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "4": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "5": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "6": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "7": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "8": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "9": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "10": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "11": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "12": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "13": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    },
+    "14": {
+      "durations": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "effectTicks": 35,
+      "executionTicks": 36
+    }
+  },
+  "actions": [
+    {
+      "id": 1,
+      "kind": "selection",
+      "response": "It’s facing this way and nodding.",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 5,
+          "message": "It’s facing this way and nodding.",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 72,
+      "kind": "selection",
+      "response": "{Pokémon} suddenly started walking closer!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 35,
+          "emoteId": 1,
+          "message": "{Pokémon} suddenly started walking closer!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 73,
+      "kind": "selection",
+      "response": "{Pokémon} suddenly started walking closer!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 36,
+          "emoteId": 1,
+          "message": "{Pokémon} suddenly started walking closer!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 74,
+      "kind": "selection",
+      "response": "{Pokémon} suddenly started walking closer!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 37,
+          "emoteId": 1,
+          "message": "{Pokémon} suddenly started walking closer!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 75,
+      "kind": "selection",
+      "response": "{Pokémon} suddenly started walking closer!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 38,
+          "emoteId": 1,
+          "message": "{Pokémon} suddenly started walking closer!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 81,
+      "kind": "selection",
+      "response": "{Pokémon}’s cheeks are becoming rosy!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 1,
+          "message": "{Pokémon}’s cheeks are becoming rosy!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 83,
+      "kind": "selection",
+      "response": "{Pokémon} is steadily keeping up with you!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} is steadily keeping up with you!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 84,
+      "kind": "selection",
+      "response": "{Pokémon} seems to want to play with {trainer}!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} seems to want to play with {trainer}!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 85,
+      "kind": "selection",
+      "response": "{Pokémon} is regarding you with adoration!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 1,
+          "message": "{Pokémon} is regarding you with adoration!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 86,
+      "kind": "selection",
+      "response": "{Pokémon} is doing its best to keep up with you!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is doing its best to keep up with you!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 87,
+      "kind": "selection",
+      "response": "{Pokémon} is jumping for joy!",
+      "movementTicks": 71,
+      "emoteTicks": 36,
+      "totalTicks": 107,
+      "secondsAt30Hz": 3.566666666666667,
+      "steps": [
+        {
+          "motionId": 13,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 31,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 45,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 27,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is jumping for joy!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 88,
+      "kind": "selection",
+      "response": "{Pokémon} is happily cuddling up to you!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 35,
+          "emoteId": 2,
+          "message": "{Pokémon} is happily cuddling up to you!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 89,
+      "kind": "selection",
+      "response": "{Pokémon} is happily cuddling up to you!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 36,
+          "emoteId": 2,
+          "message": "{Pokémon} is happily cuddling up to you!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 90,
+      "kind": "selection",
+      "response": "{Pokémon} is happily cuddling up to you!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 37,
+          "emoteId": 2,
+          "message": "{Pokémon} is happily cuddling up to you!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 91,
+      "kind": "selection",
+      "response": "{Pokémon} is happily cuddling up to you!",
+      "movementTicks": 57,
+      "emoteTicks": 36,
+      "totalTicks": 93,
+      "secondsAt30Hz": 3.1,
+      "steps": [
+        {
+          "motionId": 38,
+          "emoteId": 2,
+          "message": "{Pokémon} is happily cuddling up to you!",
+          "movementTicks": 57,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 92,
+      "kind": "selection",
+      "response": "{Pokémon} looks very happy!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} looks very happy!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 93,
+      "kind": "selection",
+      "response": "{Pokémon} seems to be feeling great about walking with you!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} seems to be feeling great about walking with you!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 94,
+      "kind": "selection",
+      "response": "{Pokémon} put in extra effort!",
+      "movementTicks": 37,
+      "emoteTicks": 36,
+      "totalTicks": 73,
+      "secondsAt30Hz": 2.433333333333333,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} put in extra effort!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 95,
+      "kind": "selection",
+      "response": "{Pokémon} spun around in a circle!",
+      "movementTicks": 40,
+      "emoteTicks": 0,
+      "totalTicks": 40,
+      "secondsAt30Hz": 1.3333333333333333,
+      "steps": [
+        {
+          "motionId": 44,
+          "emoteId": 0,
+          "message": "{Pokémon} spun around in a circle!",
+          "movementTicks": 40,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 96,
+      "kind": "selection",
+      "response": "{Pokémon} is focusing its attention on you.",
+      "movementTicks": 6,
+      "emoteTicks": 36,
+      "totalTicks": 42,
+      "secondsAt30Hz": 1.4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "{Pokémon} is focusing its attention on you.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 97,
+      "kind": "selection",
+      "response": "{Pokémon} turned to face you and smiled!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} turned to face you and smiled!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 98,
+      "kind": "selection",
+      "response": "{Pokémon} is showing off its agility!",
+      "movementTicks": 88,
+      "emoteTicks": 36,
+      "totalTicks": 124,
+      "secondsAt30Hz": 4.133333333333334,
+      "steps": [
+        {
+          "motionId": 51,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 44,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 51,
+          "emoteId": 7,
+          "message": "{Pokémon} is showing off its agility!",
+          "movementTicks": 44,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 99,
+      "kind": "selection",
+      "response": "{Pokémon} is happily skipping about!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} is happily skipping about!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 100,
+      "kind": "selection",
+      "response": "{Pokémon} seems to be very happy!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} seems to be very happy!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 101,
+      "kind": "selection",
+      "response": "{Pokémon} is jumping around in a carefree way!",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 4,
+          "emoteId": 7,
+          "message": "{Pokémon} is jumping around in a carefree way!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 102,
+      "kind": "selection",
+      "response": "{Pokémon} is moving around happily!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} is moving around happily!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 103,
+      "kind": "selection",
+      "response": "{Pokémon} is staring straight in this direction!",
+      "movementTicks": 12,
+      "emoteTicks": 72,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 2,
+          "message": "{Pokémon} is staring straight in this direction!",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 104,
+      "kind": "selection",
+      "response": "{Pokémon} turned its gaze away...",
+      "movementTicks": 54,
+      "emoteTicks": 36,
+      "totalTicks": 90,
+      "secondsAt30Hz": 3,
+      "steps": [
+        {
+          "motionId": 26,
+          "emoteId": 3,
+          "message": "{Pokémon} turned its gaze away...",
+          "movementTicks": 54,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 123,
+      "kind": "selection",
+      "response": "{Pokémon} snapped at your legs!",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 3,
+          "message": "{Pokémon} snapped at your legs!",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 125,
+      "kind": "selection",
+      "response": "{Pokémon} is nipping at your feet!",
+      "movementTicks": 23,
+      "emoteTicks": 36,
+      "totalTicks": 59,
+      "secondsAt30Hz": 1.9666666666666666,
+      "steps": [
+        {
+          "motionId": 32,
+          "emoteId": 7,
+          "message": "{Pokémon} is nipping at your feet!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 126,
+      "kind": "selection",
+      "response": "{Pokémon} is nipping at your feet!",
+      "movementTicks": 23,
+      "emoteTicks": 36,
+      "totalTicks": 59,
+      "secondsAt30Hz": 1.9666666666666666,
+      "steps": [
+        {
+          "motionId": 33,
+          "emoteId": 7,
+          "message": "{Pokémon} is nipping at your feet!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 127,
+      "kind": "selection",
+      "response": "{Pokémon} is nipping at your feet!",
+      "movementTicks": 23,
+      "emoteTicks": 36,
+      "totalTicks": 59,
+      "secondsAt30Hz": 1.9666666666666666,
+      "steps": [
+        {
+          "motionId": 34,
+          "emoteId": 7,
+          "message": "{Pokémon} is nipping at your feet!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 165,
+      "kind": "selection",
+      "response": "{Pokémon} let out a roar!",
+      "movementTicks": 24,
+      "emoteTicks": 0,
+      "totalTicks": 24,
+      "secondsAt30Hz": 0.8,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} let out a roar!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 185,
+      "kind": "selection",
+      "response": "{Pokémon} began poking you in the stomach!",
+      "movementTicks": 29,
+      "emoteTicks": 72,
+      "totalTicks": 101,
+      "secondsAt30Hz": 3.3666666666666667,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 2,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 32,
+          "emoteId": 7,
+          "message": "{Pokémon} began poking you in the stomach!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 186,
+      "kind": "selection",
+      "response": "{Pokémon} began poking you in the stomach!",
+      "movementTicks": 29,
+      "emoteTicks": 72,
+      "totalTicks": 101,
+      "secondsAt30Hz": 3.3666666666666667,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 2,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 33,
+          "emoteId": 7,
+          "message": "{Pokémon} began poking you in the stomach!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 187,
+      "kind": "selection",
+      "response": "{Pokémon} began poking you in the stomach!",
+      "movementTicks": 29,
+      "emoteTicks": 72,
+      "totalTicks": 101,
+      "secondsAt30Hz": 3.3666666666666667,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 2,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 34,
+          "emoteId": 7,
+          "message": "{Pokémon} began poking you in the stomach!",
+          "movementTicks": 23,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 205,
+      "kind": "selection",
+      "response": "{Pokémon} is wandering around.",
+      "movementTicks": 64,
+      "emoteTicks": 0,
+      "totalTicks": 64,
+      "secondsAt30Hz": 2.1333333333333333,
+      "steps": [
+        {
+          "motionId": 12,
+          "emoteId": 0,
+          "message": "{Pokémon} is wandering around.",
+          "movementTicks": 64,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 217,
+      "kind": "selection",
+      "response": "{Pokémon} is preoccupied by the floor, which seems like it may collapse.",
+      "movementTicks": 64,
+      "emoteTicks": 36,
+      "totalTicks": 100,
+      "secondsAt30Hz": 3.3333333333333335,
+      "steps": [
+        {
+          "motionId": 12,
+          "emoteId": 13,
+          "message": "{Pokémon} is preoccupied by the floor, which seems like it may collapse.",
+          "movementTicks": 64,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 218,
+      "kind": "selection",
+      "response": "{Pokémon} is preoccupied by the ceiling, which seems like it may collapse.",
+      "movementTicks": 54,
+      "emoteTicks": 36,
+      "totalTicks": 90,
+      "secondsAt30Hz": 3,
+      "steps": [
+        {
+          "motionId": 25,
+          "emoteId": 13,
+          "message": "{Pokémon} is preoccupied by the ceiling, which seems like it may collapse.",
+          "movementTicks": 54,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 222,
+      "kind": "selection",
+      "response": "{Pokémon} is trying very hard to keep up with you...",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 4,
+          "message": "{Pokémon} is trying very hard to keep up with you...",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 226,
+      "kind": "selection",
+      "response": "{Pokémon} is glowing with health!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is glowing with health!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 254,
+      "kind": "selection",
+      "response": "{Pokémon} is looking down steadily.",
+      "movementTicks": 6,
+      "emoteTicks": 36,
+      "totalTicks": 42,
+      "secondsAt30Hz": 1.4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "{Pokémon} is looking down steadily.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 264,
+      "kind": "selection",
+      "response": "{Pokémon} seems a little tired.",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 4,
+          "message": "{Pokémon} seems a little tired.",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 307,
+      "kind": "selection",
+      "response": "{Pokémon} seems very cold!",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 6,
+          "message": "{Pokémon} seems very cold!",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 327,
+      "kind": "selection",
+      "response": "{Pokémon} seems angry for some reason!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 3,
+          "message": "{Pokémon} seems angry for some reason!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 363,
+      "kind": "selection",
+      "response": "{Pokémon} is dizzy!",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 4,
+          "message": "{Pokémon} is dizzy!",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 374,
+      "kind": "selection",
+      "response": "{Pokémon} is staring at the crumbling floor.",
+      "movementTicks": 54,
+      "emoteTicks": 36,
+      "totalTicks": 90,
+      "secondsAt30Hz": 3,
+      "steps": [
+        {
+          "motionId": 26,
+          "emoteId": 6,
+          "message": "{Pokémon} is staring at the crumbling floor.",
+          "movementTicks": 54,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 376,
+      "kind": "selection",
+      "response": "{Pokémon} is still feeling great!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is still feeling great!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 400,
+      "kind": "selection",
+      "response": "{Pokémon}’s burn looks painful!",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 4,
+          "message": "{Pokémon}’s burn looks painful!",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 432,
+      "kind": "selection",
+      "response": "{Pokémon} is poking at your feet.",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is poking at your feet.",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 436,
+      "kind": "selection",
+      "response": "{Pokémon} seems to be about to fall over!",
+      "movementTicks": 43,
+      "emoteTicks": 36,
+      "totalTicks": 79,
+      "secondsAt30Hz": 2.6333333333333333,
+      "steps": [
+        {
+          "motionId": 11,
+          "emoteId": 4,
+          "message": "{Pokémon} seems to be about to fall over!",
+          "movementTicks": 43,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 439,
+      "kind": "selection",
+      "response": "{Pokémon} is happy but shy!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is happy but shy!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 441,
+      "kind": "selection",
+      "response": "{Pokémon} is poking at your belly.",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 2,
+          "message": "{Pokémon} is poking at your belly.",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 464,
+      "kind": "selection",
+      "response": "{Pokémon} is peering down.",
+      "movementTicks": 12,
+      "emoteTicks": 72,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "{Pokémon} is peering down.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 470,
+      "kind": "selection",
+      "response": "{Pokémon} is looking up at the sky.",
+      "movementTicks": 54,
+      "emoteTicks": 36,
+      "totalTicks": 90,
+      "secondsAt30Hz": 3,
+      "steps": [
+        {
+          "motionId": 25,
+          "emoteId": 7,
+          "message": "{Pokémon} is looking up at the sky.",
+          "movementTicks": 54,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 472,
+      "kind": "selection",
+      "response": "{Pokémon} is shivering with the effects of being poisoned...",
+      "movementTicks": 24,
+      "emoteTicks": 36,
+      "totalTicks": 60,
+      "secondsAt30Hz": 2,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 12,
+          "message": "{Pokémon} is shivering with the effects of being poisoned...",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 475,
+      "kind": "selection",
+      "response": "{Pokémon} feels something...",
+      "movementTicks": 64,
+      "emoteTicks": 36,
+      "totalTicks": 100,
+      "secondsAt30Hz": 3.3333333333333335,
+      "steps": [
+        {
+          "motionId": 12,
+          "emoteId": 8,
+          "message": "{Pokémon} feels something...",
+          "movementTicks": 64,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 476,
+      "kind": "selection",
+      "response": "{Pokémon} feels something and is howling!",
+      "movementTicks": 30,
+      "emoteTicks": 36,
+      "totalTicks": 66,
+      "secondsAt30Hz": 2.2,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} feels something and is howling!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 510,
+      "kind": "selection",
+      "response": "...... Your Pokémon is scowling in\\fthis direction.",
+      "movementTicks": 6,
+      "emoteTicks": 36,
+      "totalTicks": 42,
+      "secondsAt30Hz": 1.4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "...... Your Pokémon is scowling in\\fthis direction.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 513,
+      "kind": "selection",
+      "response": "...... Your Pokémon won’t look you in the eye.",
+      "movementTicks": 6,
+      "emoteTicks": 36,
+      "totalTicks": 42,
+      "secondsAt30Hz": 1.4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "...... Your Pokémon won’t look you in the eye.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 514,
+      "kind": "selection",
+      "response": "...... Your Pokémon won’t come even though\\fyou’re calling.",
+      "movementTicks": 6,
+      "emoteTicks": 36,
+      "totalTicks": 42,
+      "secondsAt30Hz": 1.4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "...... Your Pokémon won’t come even though\\fyou’re calling.",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 535,
+      "kind": "selection",
+      "response": "Careful! Seems like the floor could collapse, and it might fall.",
+      "movementTicks": 19,
+      "emoteTicks": 36,
+      "totalTicks": 55,
+      "secondsAt30Hz": 1.8333333333333333,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "Careful! Seems like the floor could collapse, and it might fall.",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 562,
+      "kind": "selection",
+      "response": "{Pokémon} shook the tower with its voice!",
+      "movementTicks": 61,
+      "emoteTicks": 36,
+      "totalTicks": 97,
+      "secondsAt30Hz": 3.2333333333333334,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} shook the tower with its voice!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 563,
+      "kind": "selection",
+      "response": "{Pokémon} howled loudly!",
+      "movementTicks": 24,
+      "emoteTicks": 0,
+      "totalTicks": 24,
+      "secondsAt30Hz": 0.8,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} howled loudly!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 573,
+      "kind": "selection",
+      "response": "Your Pokémon is looking around restlessly for something.",
+      "movementTicks": 64,
+      "emoteTicks": 36,
+      "totalTicks": 100,
+      "secondsAt30Hz": 3.3333333333333335,
+      "steps": [
+        {
+          "motionId": 12,
+          "emoteId": 8,
+          "message": "Your Pokémon is looking around restlessly for something.",
+          "movementTicks": 64,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 579,
+      "kind": "selection",
+      "response": "Sniff, sniff! Is there something nearby?",
+      "movementTicks": 64,
+      "emoteTicks": 36,
+      "totalTicks": 100,
+      "secondsAt30Hz": 3.3333333333333335,
+      "steps": [
+        {
+          "motionId": 12,
+          "emoteId": 8,
+          "message": "Sniff, sniff! Is there something nearby?",
+          "movementTicks": 64,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 598,
+      "kind": "selection",
+      "response": "Your Pokémon is very concerned about the room below.",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 9,
+          "message": "Your Pokémon is very concerned about the room below.",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 603,
+      "kind": "selection",
+      "response": "{Pokémon} shook the tower with its cry!",
+      "movementTicks": 61,
+      "emoteTicks": 36,
+      "totalTicks": 97,
+      "secondsAt30Hz": 3.2333333333333334,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} shook the tower with its cry!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 604,
+      "kind": "selection",
+      "response": "{Pokémon} roared loudly!",
+      "movementTicks": 24,
+      "emoteTicks": 0,
+      "totalTicks": 24,
+      "secondsAt30Hz": 0.8,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} roared loudly!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 614,
+      "kind": "selection",
+      "response": "Your Pokémon stumbled and nearly fell!",
+      "movementTicks": 48,
+      "emoteTicks": 36,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 6,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 12,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 57,
+          "emoteId": 0,
+          "message": "Your Pokémon stumbled and nearly fell!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 615,
+      "kind": "selection",
+      "response": "Your Pokémon stumbled and nearly fell!",
+      "movementTicks": 48,
+      "emoteTicks": 36,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 6,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 12,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 58,
+          "emoteId": 0,
+          "message": "Your Pokémon stumbled and nearly fell!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 616,
+      "kind": "selection",
+      "response": "Your Pokémon stumbled and nearly fell!",
+      "movementTicks": 48,
+      "emoteTicks": 36,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 6,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 12,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 59,
+          "emoteId": 0,
+          "message": "Your Pokémon stumbled and nearly fell!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 617,
+      "kind": "selection",
+      "response": "Your Pokémon stumbled and nearly fell!",
+      "movementTicks": 48,
+      "emoteTicks": 36,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 6,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 12,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 60,
+          "emoteId": 0,
+          "message": "Your Pokémon stumbled and nearly fell!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 645,
+      "kind": "selection",
+      "response": "{Pokémon} is singing and humming!",
+      "movementTicks": 79,
+      "emoteTicks": 72,
+      "totalTicks": 151,
+      "secondsAt30Hz": 5.033333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} is singing and humming!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 43,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 66,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 648,
+      "kind": "selection",
+      "response": "{Pokémon} is making a face like it’s angry!",
+      "movementTicks": 37,
+      "emoteTicks": 36,
+      "totalTicks": 73,
+      "secondsAt30Hz": 2.433333333333333,
+      "steps": [
+        {
+          "motionId": 8,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 3,
+          "message": "{Pokémon} is making a face like it’s angry!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 661,
+      "kind": "selection",
+      "response": "Your Pokémon turned to face the other way, showing a defiant expression...",
+      "movementTicks": 12,
+      "emoteTicks": 72,
+      "totalTicks": 84,
+      "secondsAt30Hz": 2.8,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 13,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 3,
+          "message": "Your Pokémon turned to face the other way, showing a defiant expression...",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 666,
+      "kind": "selection",
+      "response": "{Pokémon} roared loudly!",
+      "movementTicks": 37,
+      "emoteTicks": 0,
+      "totalTicks": 37,
+      "secondsAt30Hz": 1.2333333333333334,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "{Pokémon} roared loudly!",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 667,
+      "kind": "selection",
+      "response": "{Pokémon} shook the tower with its voice!",
+      "movementTicks": 61,
+      "emoteTicks": 36,
+      "totalTicks": 97,
+      "secondsAt30Hz": 3.2333333333333334,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} shook the tower with its voice!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 684,
+      "kind": "selection",
+      "response": "Your Pokémon is playing around and splashing in the water!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "Your Pokémon is playing around and splashing in the water!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 696,
+      "kind": "selection",
+      "response": "{Pokémon} shook the tower with its cry!",
+      "movementTicks": 61,
+      "emoteTicks": 36,
+      "totalTicks": 97,
+      "secondsAt30Hz": 3.2333333333333334,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 24,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} shook the tower with its cry!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 697,
+      "kind": "selection",
+      "response": "{Pokémon} howled loudly!",
+      "movementTicks": 24,
+      "emoteTicks": 0,
+      "totalTicks": 24,
+      "secondsAt30Hz": 0.8,
+      "steps": [
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "{Pokémon} howled loudly!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 700,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} suddenly hugged you!",
+      "movementTicks": 69,
+      "emoteTicks": 72,
+      "totalTicks": 141,
+      "secondsAt30Hz": 4.7,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 35,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} suddenly hugged you!",
+          "movementTicks": 57,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 701,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} suddenly hugged you!",
+      "movementTicks": 69,
+      "emoteTicks": 72,
+      "totalTicks": 141,
+      "secondsAt30Hz": 4.7,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 36,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} suddenly hugged you!",
+          "movementTicks": 57,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 702,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} suddenly hugged you!",
+      "movementTicks": 69,
+      "emoteTicks": 72,
+      "totalTicks": 141,
+      "secondsAt30Hz": 4.7,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 37,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} suddenly hugged you!",
+          "movementTicks": 57,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 703,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} suddenly hugged you!",
+      "movementTicks": 69,
+      "emoteTicks": 72,
+      "totalTicks": 141,
+      "secondsAt30Hz": 4.7,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 38,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} suddenly hugged you!",
+          "movementTicks": 57,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 704,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} is suddenly playful!",
+      "movementTicks": 48,
+      "emoteTicks": 72,
+      "totalTicks": 120,
+      "secondsAt30Hz": 4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 57,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} is suddenly playful!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 705,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} is suddenly playful!",
+      "movementTicks": 48,
+      "emoteTicks": 72,
+      "totalTicks": 120,
+      "secondsAt30Hz": 4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 58,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} is suddenly playful!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 706,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} is suddenly playful!",
+      "movementTicks": 48,
+      "emoteTicks": 72,
+      "totalTicks": 120,
+      "secondsAt30Hz": 4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 59,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} is suddenly playful!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 707,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} is suddenly playful!",
+      "movementTicks": 48,
+      "emoteTicks": 72,
+      "totalTicks": 120,
+      "secondsAt30Hz": 4,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 1,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 60,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} is suddenly playful!",
+          "movementTicks": 36,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 2,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 708,
+      "kind": "selection",
+      "response": "Whoa! {Pokémon} suddenly danced in happiness!",
+      "movementTicks": 125,
+      "emoteTicks": 36,
+      "totalTicks": 161,
+      "secondsAt30Hz": 5.366666666666666,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 7,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 43,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 66,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 44,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 40,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "Whoa! {Pokémon} suddenly danced in happiness!",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 718,
+      "kind": "selection",
+      "response": "Waah! Your Pokémon suddenly howled!",
+      "movementTicks": 30,
+      "emoteTicks": 36,
+      "totalTicks": 66,
+      "secondsAt30Hz": 2.2,
+      "steps": [
+        {
+          "motionId": 2,
+          "emoteId": 9,
+          "message": "",
+          "movementTicks": 6,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 9,
+          "emoteId": 0,
+          "message": "Waah! Your Pokémon suddenly howled!",
+          "movementTicks": 24,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 906,
+      "kind": "continuation",
+      "response": "{Pokémon} seems happy to have found something!",
+      "movementTicks": 40,
+      "emoteTicks": 36,
+      "totalTicks": 76,
+      "secondsAt30Hz": 2.533333333333333,
+      "steps": [
+        {
+          "motionId": 44,
+          "emoteId": 2,
+          "message": "{Pokémon} seems happy to have found something!",
+          "movementTicks": 40,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 945,
+      "kind": "selection",
+      "response": "Huh? {Pokémon} is holding something... Would you like to take it?",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 8,
+          "message": "Huh? {Pokémon} is holding something... Would you like to take it?",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 1000,
+      "no": 906
+    },
+    {
+      "id": 946,
+      "kind": "selection",
+      "response": "Huh? {Pokémon} is holding something... Would you like to take it?",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 8,
+          "message": "Huh? {Pokémon} is holding something... Would you like to take it?",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 1001,
+      "no": 906
+    },
+    {
+      "id": 949,
+      "kind": "selection",
+      "response": "Huh? {Pokémon} is holding something... Would you like to take it?",
+      "movementTicks": 13,
+      "emoteTicks": 36,
+      "totalTicks": 49,
+      "secondsAt30Hz": 1.6333333333333333,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 8,
+          "message": "Huh? {Pokémon} is holding something... Would you like to take it?",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 1004,
+      "no": 906
+    },
+    {
+      "id": 1000,
+      "kind": "continuation",
+      "response": "{Pokémon} happily handed it over!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} happily handed it over!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 1001,
+      "kind": "continuation",
+      "response": "{Pokémon} happily handed it over!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} happily handed it over!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    },
+    {
+      "id": 1004,
+      "kind": "continuation",
+      "response": "{Pokémon} happily handed it over!",
+      "movementTicks": 26,
+      "emoteTicks": 36,
+      "totalTicks": 62,
+      "secondsAt30Hz": 2.066666666666667,
+      "steps": [
+        {
+          "motionId": 3,
+          "emoteId": 0,
+          "message": "",
+          "movementTicks": 13,
+          "emoteTicks": 0,
+          "explicitWait": 0
+        },
+        {
+          "motionId": 3,
+          "emoteId": 7,
+          "message": "{Pokémon} happily handed it over!",
+          "movementTicks": 13,
+          "emoteTicks": 36,
+          "explicitWait": 0
+        }
+      ],
+      "yes": 0,
+      "no": 0
+    }
+  ],
+  "branches": [
+    {
+      "id": 945,
+      "choice": "yes",
+      "next": 1000,
+      "movementTicks": 39,
+      "emoteTicks": 72,
+      "totalTicks": 111
+    },
+    {
+      "id": 945,
+      "choice": "no",
+      "next": 906,
+      "movementTicks": 53,
+      "emoteTicks": 72,
+      "totalTicks": 125
+    },
+    {
+      "id": 946,
+      "choice": "yes",
+      "next": 1001,
+      "movementTicks": 39,
+      "emoteTicks": 72,
+      "totalTicks": 111
+    },
+    {
+      "id": 946,
+      "choice": "no",
+      "next": 906,
+      "movementTicks": 53,
+      "emoteTicks": 72,
+      "totalTicks": 125
+    },
+    {
+      "id": 949,
+      "choice": "yes",
+      "next": 1004,
+      "movementTicks": 39,
+      "emoteTicks": 72,
+      "totalTicks": 111
+    },
+    {
+      "id": 949,
+      "choice": "no",
+      "next": 906,
+      "movementTicks": 53,
+      "emoteTicks": 72,
+      "totalTicks": 125
+    }
+  ]
+}

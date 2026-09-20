@@ -1,0 +1,8 @@
+/build/
+/dist/
+/verification/
+/node_modules/
+*.exe
+*.pdb
+.DS_Store
+Thumbs.db

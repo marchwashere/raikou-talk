@@ -1,0 +1,18 @@
+[
+  {
+    "sha256": "815d0b39cb4fd19314668bf532b58801cef0f42b846ce6248c38ce730fa91f2f",
+    "name": "raikou_full_opt.json"
+  },
+  {
+    "sha256": "dc8c1599012d172147bdfd0ccfbbfb41134851b71d04b2897ae12c82f70a1ef8",
+    "name": "raikou_q2_opt.json"
+  },
+  {
+    "sha256": "6a1f05b615e759753a265908615144e70253241b92277c15ddd5718d9843908a",
+    "name": "raikou_q3_opt.json"
+  },
+  {
+    "sha256": "b077f6b3b5f52a5ebbb7fe13ae21bc0699ac35208c8fa1df4a25d97075fa13f3",
+    "name": "raikou_q4_opt.json"
+  }
+]

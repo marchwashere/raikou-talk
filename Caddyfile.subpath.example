@@ -1,0 +1,9 @@
+# Add these handlers inside your existing domain's site block.
+redir /raikou /raikou/ 308
+handle_path /raikou/* {
+    root * /srv/raikou-talk/public
+    encode zstd gzip
+    header Cache-Control "no-cache"
+    file_server
+}
+# Keep your existing application in a sibling handle { ... } block.

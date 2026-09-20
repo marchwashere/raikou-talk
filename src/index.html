@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Raikou Manip</title>
+  <link rel="icon" href="emotes/9.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="emotes.css">
+  <script type="module" src="app.mjs"></script>
+</head>
+<body>
+<main id="app">
+  <section id="bands" aria-labelledby="title">
+    <h1 id="title">Raikou Manip</h1>
+    <p class="checkpoint">100A0D2A · B1F arrival 3146–3359 → 3484</p>
+    <div class="band-grid">
+      <button type="button" data-band="Q2" disabled><strong>Q2</strong><span>17–32 HP</span></button>
+      <button type="button" data-band="Q3" disabled><strong>Q3</strong><span>33–48 HP</span></button>
+      <button type="button" data-band="Q4" disabled><strong>Q4</strong><span>49–64 HP</span></button>
+      <button type="button" data-band="Full" disabled><strong>Full</strong><span>65 HP</span></button>
+    </div>
+    <div class="load-status"><p id="status" role="status">Loading…</p><button type="button" id="retry" hidden>Retry</button></div>
+    <noscript><p>JavaScript is required.</p></noscript>
+  </section>
+  <section id="route" hidden aria-labelledby="route-title">
+    <header class="route-header">
+      <h1 id="route-title" tabindex="-1"></h1>
+      <nav aria-label="Route controls">
+        <button type="button" id="band">Band</button>
+        <button type="button" id="back" title="Back (Alt+Left)" disabled>Back</button>
+        <button type="button" id="restart">Restart</button>
+        <button type="button" id="details-toggle" aria-expanded="false" aria-controls="details">Details</button>
+      </nav>
+    </header>
+    <p id="summary" class="summary" aria-live="polite" aria-atomic="true"></p>
+    <section id="details" class="panel details" aria-label="Saved checkpoint" hidden></section>
+    <section id="actions" class="panel" aria-label="Actions">
+      <div id="steps"></div>
+      <p id="origins" hidden></p>
+    </section>
+    <section id="responses" class="panel" aria-labelledby="responses-title">
+      <div class="filter-row">
+        <h2 id="responses-title">Responses</h2>
+        <input type="search" id="filter" placeholder="Filter" aria-label="Filter responses" autocomplete="off" spellcheck="false">
+        <button type="button" id="clear-filter" aria-label="Clear filter" title="Clear filter" hidden>×</button>
+      </div>
+      <div id="choices"></div>
+      <p id="no-match" role="status" hidden>No matches</p>
+    </section>
+  </section>
+</main>
+</body>
+</html>

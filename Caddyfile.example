@@ -1,0 +1,6 @@
+raikou.example.com {
+    root * /srv/raikou-talk/public
+    encode zstd gzip
+    header Cache-Control "no-cache"
+    file_server
+}
